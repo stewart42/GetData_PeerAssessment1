@@ -11,3 +11,10 @@ Here are the original data for the project:
 - The **run_analysis.R** script has all the code to do the analysis
 - The **CodeBook.md** explains the output values and how the data was transformed
 
+**run_analysis.R** does the following
+
+- Downloads the raw data
+- Merges the raw data
+- Cleans the data
+- Tidies and summarises the data
+- Writes the summary to a text file
